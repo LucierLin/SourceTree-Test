@@ -44,6 +44,7 @@ public class HelloJdbc {
 			if (n==0)
 				System.out.println("刪除表格Product成功, n=" + n);
 			     System.out.println("SourceTree Test");
+			     System.out.println("SourceTree Test2");
 			// 執行該Statement物件的 executeUpdate(SQL命令)方法來新建表格
 			// ????????????????????????
 			if (n==0)
